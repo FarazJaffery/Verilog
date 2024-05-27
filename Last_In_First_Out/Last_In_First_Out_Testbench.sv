@@ -4,7 +4,7 @@
 // Testbench for Fully Parameterized Asynchronous Active Low Reset Last In First Out (LIFO) / Stack //
 //////////////////////////////////////////////////////////////////////////////////////////////////////
 
-`timescale 1ns/1ps
+
 
 `timescale 1ns/1ps
 
